@@ -10,4 +10,5 @@ package poly.cafe.dao.entity;
  */
 public class UserEntity {
     
+           
 }
