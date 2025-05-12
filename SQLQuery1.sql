@@ -1,0 +1,5 @@
+
+USE ass;
+CREATE TABLE DEMO(
+	demo NVARCHAR(100)
+);
