@@ -11,5 +11,5 @@ package poly.cafe.entity;
 public class User {
     String user;
     String password;
-    cac
+    
 }
