@@ -1,5 +1,6 @@
 
 USE ass;
 CREATE TABLE DEMO(
-	demo NVARCHAR(100)
+	demo NVARCHAR(100),
+	bao NVARCHAR(100)
 );
