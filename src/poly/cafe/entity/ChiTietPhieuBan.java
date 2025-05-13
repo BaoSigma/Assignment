@@ -10,5 +10,7 @@ package poly.cafe.entity;
  * @author Dong Khanh
  */
 public class ChiTietPhieuBan {
-
+    private int ID;
+    private String maDU;
+    
 }

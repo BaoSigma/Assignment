@@ -9,6 +9,10 @@ package poly.cafe.entity;
  *
  * @author Dong Khanh
  */
-public class DoUong {
-
+public class DoUong extends LoaiDoUong{
+    private String maDU;
+    private String tenDU;
+    private String anhDoUong;
+    private String Size;
+    
 }
