@@ -1,12 +1,12 @@
 
-USE ass;
+use ass;
 CREATE TABLE TheDD(
 	maDD VARCHAR(10) PRIMARY KEY,
 	trangThai NVARCHAR(15)
 );
 CREATE TABLE doanhThu(
 maDT VARCHAR(10) PRIMARY KEY,
-tongDiem money,
+tongTien money,
 donDaTao int,
 ghiChu NVARCHAR(50)
 );
